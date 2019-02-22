@@ -13,7 +13,8 @@ A helpful set of operations to get Colby Shuttle Data via wrapper around unoffic
 `yarn`
 
 ### Build
-`tsc`
+`yarn compile` <br>
+
 Executable used by npm is index.js. Code is written in typescript in `src/index.ts`.
 
 ## API
