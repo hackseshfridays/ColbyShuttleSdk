@@ -1,6 +1,21 @@
 # maveirck
 A helpful set of operations to get Colby Shuttle Data via wrapper around unofficial shuttle api.
 
+## Quick Start
+
+### Prerequisites
+* Node.js
+* Npm
+* Yarn
+* Typescript
+
+### Setup
+`yarn`
+
+### Build
+`tsc`
+Executable used by npm is index.js. Code is written in typescript in `src/index.ts`.
+
 ## API
 iframe URL: https://colbyshuttle.ridesystems.net
 

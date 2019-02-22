@@ -5,6 +5,9 @@
   "main": "index.js",
   "repository": "https://github.com/hackseshfridays/maverick.git",
   "author": "robertDurst <rsdurst@colby.edu>",
+  "scripts": {
+    "compile": "tsc"
+  },
   "license": "MIT",
   "private": false,
   "dependencies": {
