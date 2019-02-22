@@ -1,5 +1,5 @@
-# ColbyShuttleSdk
-A helpful set of operations to get Colby Shuttle Data
+# maveirck
+A helpful set of operations to get Colby Shuttle Data via wrapper around unofficial shuttle api.
 
 ## API
 iframe URL: https://colbyshuttle.ridesystems.net

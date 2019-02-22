@@ -1,9 +1,9 @@
 {
-  "name": "colbyshuttlesdk",
+  "name": "maverick",
   "version": "0.0.1",
-  "description": "wrapper around api for Colby Shuttle",
+  "description": "wrapper around api for unofficialColby Shuttle  api",
   "main": "index.js",
-  "repository": "https://github.com/hackseshfridays/ColbyShuttleSdk.git",
+  "repository": "https://github.com/hackseshfridays/maverick.git",
   "author": "robertDurst <rsdurst@colby.edu>",
   "license": "MIT",
   "private": false,
