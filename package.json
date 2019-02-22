@@ -1,5 +1,5 @@
 {
-  "name": "ColbyShuttleSdk",
+  "name": "colbyshuttlesdk",
   "version": "0.0.1",
   "description": "wrapper around api for Colby Shuttle",
   "main": "index.js",
